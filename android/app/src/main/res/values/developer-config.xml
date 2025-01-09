@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="pk.eyJ1IjoiYW1pcnVsYWltYW5uIiwiYSI6ImNsdzRxNnV6NDFiZ2IybHFxY3Z4cmNkcXgifQ.c97JIrPWS0tfpcaon3vAeg" translatable="false" tools:ignore="UnusedResources">YOUR_PUBLIC_MAPBOX_ACCESS_TOKEN</string>
+</resources>
