@@ -42,5 +42,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Ignore gradle.properties to prevent leaking API keys
+# Ignore API keys
 android/gradle.properties
+android/app/src/main/AndroidManifest.xml
