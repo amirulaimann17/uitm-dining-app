@@ -41,3 +41,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore gradle.properties to prevent leaking API keys
+android/gradle.properties
